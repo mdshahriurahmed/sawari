@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+
+header {
+
+    overflow: hidden;
+    font-family: 'Poppins';
+}
+
+.bg-custom-primary {
+    background-color: #264653;
+}
+
+.btn-custom-primary {
+    background-color: #E76F51 !important;
+    color: white !important;
+}
