@@ -22,6 +22,12 @@ main {
     color: white !important;
 }
 
+.btn-custom-outlined {
+    background-color: #e76f5100 !important;
+    color: #E76F51 !important;
+    border: 2px solid #E76F51 !important;
+}
+
 .txt-custom-primary {
     color: #E76F51 !important;
 }
