@@ -7,6 +7,12 @@ header {
     font-family: 'Poppins';
 }
 
+main {
+
+    overflow: hidden;
+    font-family: 'Poppins';
+}
+
 .bg-custom-primary {
     background-color: #264653;
 }
@@ -14,4 +20,14 @@ header {
 .btn-custom-primary {
     background-color: #E76F51 !important;
     color: white !important;
+}
+
+.txt-custom-primary {
+    color: #E76F51 !important;
+}
+
+.custom-line {
+    width: 90px;
+    border-top: 3px solid #E76F51;
+    margin: 0 auto;
 }
